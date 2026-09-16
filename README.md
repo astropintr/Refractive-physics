@@ -25,6 +25,7 @@ The project contains manuscripts, data, scripts, and derivations for the series:
 ---
 ## 📁 Repository Structure
 
+```text
 Refractive-physics/
 │
 ├── papers/                  # Manuscripts, published PDFs, supplementary material
@@ -48,6 +49,7 @@ Refractive-physics/
 ├── docs/                    # Theory notes, derivations, presentations
 │
 └── README.md                # Project overview
+
 
 ---
 
