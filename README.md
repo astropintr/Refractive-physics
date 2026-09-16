@@ -23,32 +23,33 @@ The project contains manuscripts, data, scripts, and derivations for the series:
 - **Refractive Cosmology III (RC‑III)**
 
 ---
-
 ## 📁 Repository Structure
 
 Refractive-physics/
 │
-├── papers/          # Manuscripts, published PDFs, supplementary material
-│   ├── RC-I/        # Refractive Cosmology I (CQG submission)
-│   ├── RC-II/       # Airy-like Modes (Overleaf project)
-│   └── RC-III/      # Future work
+├── papers/                  # Manuscripts, published PDFs, supplementary material
+│   ├── RC-I/                # Refractive Cosmology I (CQG submission)
+│   ├── RC-II/               # Airy-like Modes (Overleaf project)
+│   └── RC-III/              # Future work
 │
-├── data/            # SPARC data, processed datasets, fits, residuals
+├── data/                    # SPARC data, processed datasets, fits, residuals
 │   └── SPARC/
 │       ├── raw/
 │       ├── processed/
 │       └── fits/
 │
-├── src/             # MATLAB/Python code for analysis and figures
+├── src/                     # MATLAB/Python code for analysis and figures
 │   └── matlab/
 │       ├── fitting/
 │       ├── loaders/
 │       ├── plotting/
 │       └── utils/
 │
-├── docs/            # Theory notes, derivations, presentations
+├── docs/                    # Theory notes, derivations, presentations
 │
-└── README.md        # Project overview
+└── README.md                # Project overview
+
+
 
 ---
 
