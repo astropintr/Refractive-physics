@@ -49,8 +49,6 @@ Refractive-physics/
 │
 └── README.md                # Project overview
 
-
-
 ---
 
 ## 🔬 Reproducing Figures (SPARC fits)
