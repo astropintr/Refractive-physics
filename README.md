@@ -25,6 +25,7 @@ The project contains manuscripts, data, scripts, and derivations for the series:
 ---
 
 ## 📁 Repository Structure
+
 Refractive-physics/
 │
 ├── papers/          # Manuscripts, published PDFs, supplementary material
